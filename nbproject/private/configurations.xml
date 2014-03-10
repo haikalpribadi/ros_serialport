@@ -38,8 +38,6 @@
           </df>
           <df name="doxygen.dir">
           </df>
-          <df name="Progress">
-          </df>
           <df name="rosbuild_clean-test-results.dir">
           </df>
           <df name="ROSBUILD_genmsg_cpp.dir">
@@ -108,6 +106,8 @@
         <df name="serialport">
           <in>SerialPortReader.h</in>
         </df>
+      </df>
+      <df name="launch">
       </df>
       <df name="lib">
       </df>

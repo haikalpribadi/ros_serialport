@@ -46,12 +46,15 @@
           </ccTool>
         </makeTool>
       </makefileType>
-      <item path="include/serialport/SerialPortReader.h"
+      <item path="/home/haikalpribadi/Workspace/ROS/radiophonic/serialport/include/serialport/SerialPortReader.h"
             ex="false"
             tool="3"
             flavor2="0">
       </item>
-      <item path="src/SerialPortReader.cpp" ex="false" tool="1" flavor2="0">
+      <item path="/home/haikalpribadi/Workspace/ROS/radiophonic/serialport/src/SerialPortReader.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
       </item>
     </conf>
   </confs>
