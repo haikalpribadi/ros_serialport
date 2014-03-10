@@ -43,17 +43,6 @@ SerialPortReader::SerialPortReader() {
 }
 
 void SerialPortReader::readPort() {
-    /*
-    int size = 200;
-    char delim = '\r';
-    while (ros::ok()) {
-        char str[size];
-        arduino.getline(str, size, delim);
-        cout << str << "-";
-        usleep(1000);
-    }
-    */
-    
     int size = 200;
     char delim = '\r';
     std_msgs::Int32MultiArray msg;
