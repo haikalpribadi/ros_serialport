@@ -1,0 +1,19 @@
+<package>
+  <description brief="serialport">
+
+     serialport
+
+  </description>
+  <author>Haikal Pribadi</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/serialport</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <export>
+    <cpp cflags="-I${prefix}/include" lflags="-L${prefix}/lib"/>
+  </export>
+</package>
+
+
