@@ -1,0 +1,8 @@
+*~
+build/
+msg_gen/
+srv_gen/
+bin/
+nbproject/
+src/audiogesture/msg/
+src/audiogesture/srv/

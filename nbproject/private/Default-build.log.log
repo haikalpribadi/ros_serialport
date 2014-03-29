@@ -1,3 +1,0 @@
-make: rospack: Command not found
-Makefile:1: /cmake.mk: No such file or directory
-make: *** No rule to make target `/cmake.mk'. Stop.
